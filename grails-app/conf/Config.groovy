@@ -119,3 +119,8 @@ log4j = {
            'org.hibernate',
            'net.sf.ehcache.hibernate'
 }
+
+generatron.devkey = "b822334e-68df-41af-8124-7c5e88ebfb4a"
+generatron.url = "http://www.generatron.com/Generatron/"
+
+
