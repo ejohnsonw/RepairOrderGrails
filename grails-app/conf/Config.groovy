@@ -120,7 +120,7 @@ log4j = {
            'net.sf.ehcache.hibernate'
 }
 
-generatron.devkey = "b822334e-68df-41af-8124-7c5e88ebfb4a"
+generatron.devkey = "<your key here>" //After registering/login go to settings your devkey is there.
 generatron.url = "http://www.generatron.com/Generatron/"
 
 
